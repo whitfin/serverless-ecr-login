@@ -1,0 +1,30 @@
+{
+  "name": "serverless-ecr-login",
+  "version": "1.0.0",
+  "description": "A small Serverless plugin for ECR authentication",
+  "author": {
+    "name": "Isaac Whitfield",
+    "email": "iw@whitfin.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/whitfin/serverless-ecr-login.git"
+  },
+  "bugs": {
+    "email": "iw@whitfin.com",
+    "url": "http://github.com/whitfin/serverless-ecr-login/issues"
+  },
+  "main": "lib/plugin.js",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "aws",
+    "ecr",
+    "docker",
+    "serverless",
+    "serverless.com"
+  ],
+  "peerDependencies": {
+    "serverless": "3 - 4"
+  }
+}
