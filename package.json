@@ -24,6 +24,9 @@
     "serverless",
     "serverless.com"
   ],
+  "dependencies": {
+    "child-process-ext": "^3.0.2"
+  },
   "peerDependencies": {
     "serverless": "3 - 4"
   }
