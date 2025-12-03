@@ -1,6 +1,6 @@
 {
   "name": "serverless-ecr-login",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A small Serverless plugin for ECR authentication",
   "author": {
     "name": "Isaac Whitfield",
